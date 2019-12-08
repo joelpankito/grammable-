@@ -23,3 +23,6 @@ deploy:
   app: grammable-joel-pankito
   on:
     repo: joelpankito/grammable-
+  run:
+      - "rake db:migrate"
+      - restart
