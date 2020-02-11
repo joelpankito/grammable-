@@ -19,11 +19,11 @@ Git clone the repository to your local machine:
 
 HTTPS:
 ```
-$ https://github.com/joelpankito/grammable.git
+$ https://github.com/joelpankito/grammable-.git
 ```
 SSH:
 ```
-$ git@github.com:joelpankito/grammable.git
+$ git@github.com:joelpankito/grammable-.git
 
 ```
 Next, cd into the repository you cloned and install the necessary dependencies by running:
